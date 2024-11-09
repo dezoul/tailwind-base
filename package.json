@@ -1,6 +1,6 @@
 {
-  "name": "ioc-jekyll-tailwind",
-  "version": "1.0.0",
+  "name": "tailwind-base",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,21 +14,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PollockCR/ioc-jekyll-tailwind.git"
+    "url": "git+https://github.com/dezoul/tailwind-base.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PollockCR/ioc-jekyll-tailwind/issues"
+    "url": "https://github.com/dezoul/tailwind-base/issues"
   },
-  "homepage": "https://github.com/PollockCR/ioc-jekyll-tailwind#readme",
+  "homepage": "https://github.com/dezoul/tailwind-base#readme",
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "concurrently": "^7.5.0",
-    "cssnano": "^5.1.14",
-    "postcss": "^8.4.19",
-    "postcss-cli": "^10.0.0",
-    "tailwindcss": "^3.2.4"
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.1.0",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.14"
   }
 }
